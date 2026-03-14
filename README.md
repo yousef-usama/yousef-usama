@@ -1,3 +1,9 @@
+## Hi There 🙋🏻‍♂️
+
+👨🏻‍💻 I'm Yousef, a visionary AWS Cloud Operations Engineer eager to build tech solutions that solve real-world problems.<br/>
+👨🏻‍🎓 I'm currently working on my graduation project this year 2026.<br/>
+🛠️ The tools are AWS, Docker, Terraform, Ansible, Jenkins and GitHub actions.<br/>
+🙋🏻‍♂️ You can reach out via Linkedin anytime.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yousef-osama-eisa) 
